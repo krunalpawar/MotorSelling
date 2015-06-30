@@ -1,0 +1,4 @@
+D:\MotorSelling\MotorSelling\MotorSelling\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\MotorSelling\MotorSelling\MotorSelling\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\MotorSelling\MotorSelling\MotorSelling\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\MotorSelling\MotorSelling\MotorSelling\BussinessLayer\obj\Debug\BussinessLayer.pdb
